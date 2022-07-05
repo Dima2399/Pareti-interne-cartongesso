@@ -155,47 +155,74 @@
  Normativa di riferimento: /
 
 
-
-
-
-
-
 ### Controlli di adeguatezza (AD)
 
 
 ###### Controlli sui controsoffitti:
 
+- AD_A_01) Verifica che le proprietà acustiche del controsoffitto siano adeguate per la classe di ambiente abitativo (A, B, C, D, E, F, G) che delimita.	D.P.C.M. 05/12/1997 “Determinazione dei requisiti acustici passivi degli edifici”
 
+ Normativa di riferimento: D.P.C.M. 05/12/1997 “Determinazione dei requisiti acustici passivi degli edifici”
 
+- AD_A_02) Verifica che la classe di reazione al fuoco del controsoffitto (0, 1, 2, 3, 4, 5) sia adeguata al rischio presente in quel tipo di ambiente.
+
+ Normativa di riferimento: EN 13501-1:2018
+
+- AD_A_03) Verifica che la classe di resistenza al fuoco del controsoffitto (REI 10, 15, 20, 30, 45, 60, 90, 120, 180, 240 e 360) sia adeguata al rischio presente in quel tipo di ambiente.
+
+ Normativa di riferimento: EN 13501-2:2016
+
+- AD_A_04) Verifica che l'altezza minima delle stanze indicata sia adeguata.
+
+ Normativa di riferimento: dm 5/7/1975
 
 
 ###### Controlli sulle lastre in cartongesso:
 
+- AD_B_01) Verifica che il tipo di lastra utilizzato (A, D, E, F, H, I, R, P o combinate) sia conforme all'utilizzo previsto.
 
+ Normativa di riferimento: EN 520:2004
 
+- AD_B_02) Verifica che la classe di reazione al fuoco della lastra (0, 1, 2, 3, 4, 5) sia adeguata al rischio presente in quel tipo di ambiente.
 
+ Normativa di riferimento: EN 13501-1:2018
+
+- AD_B_03) Verifica che la classe di resistenza al fuoco della lastra (REI 10, 15, 20, 30, 45, 60, 90, 120, 180, 240 e 360) sia adeguata al rischio presente in quel tipo di ambiente.
+
+ Normativa di riferimento: EN 13501-2:2016
 
 
 ###### Controlli su guide e montanti metallici:
 
+- AD_C_01) Verifica che la classe di reazione al fuoco di guide e montanti (0, 1, 2, 3, 4, 5) sia adeguata al rischio presente in quel tipo di ambiente.	EN 13501-1:2018
 
+ Normativa di riferimento: EN 13501-1:2018
 
+- AD_C_02) Verifica che la capacità portante di guide e montanti sia adeguata al peso e al numero delle lastre.	/
 
-
+ Normativa di riferimento: /
 
 
 
 ### Controlli di coerenza (CO):
 
 
-
 ###### Controlli sui controsoffitti:
 
+- CO_A_01) Verifica che l'altezza delle stanze indicata negli elaborati grafici sia coerente con quanto riportato nel capitolato.
 
+ Normativa di riferimento: /
 
+- CO_A_02) Verifica che l'altezza del controsoffitto permetta l'alloggiamento degli impianti meccanici.	/
+
+ Normativa di riferimento: /
 
 ###### Controlli sulle lastre in cartongesso:
 
+- CO_B_01) Verifica che le dimensioni e il numero delle lastre riportate nel capitolato siano coerenti con quanto riportato negli elaborati grafici.
 
+Normativa di riferimento: /
 
 ###### Controlli su guide e montanti metallici:
+
+- CO_C_01) Verifica che l'interasse dei montanti indicato nel capitolato sia coerente con quanto rappresentato nelle tavole.
