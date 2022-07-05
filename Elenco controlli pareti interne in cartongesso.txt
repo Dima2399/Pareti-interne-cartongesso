@@ -239,7 +239,7 @@
 
 
 
-### Controlli di coerenza (CO):
+### Controlli di coerenza (CO)
 
 
 ###### Controlli sulla parete:
