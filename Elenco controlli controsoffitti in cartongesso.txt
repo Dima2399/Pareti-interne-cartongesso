@@ -221,8 +221,10 @@
 
 - CO_B_01) Verifica che le dimensioni e il numero delle lastre riportate nel capitolato siano coerenti con quanto riportato negli elaborati grafici.
 
-Normativa di riferimento: /
+ Normativa di riferimento: /
 
 ###### Controlli su guide e montanti metallici:
 
 - CO_C_01) Verifica che l'interasse dei montanti indicato nel capitolato sia coerente con quanto rappresentato nelle tavole.
+
+ Normativa di riferimento: /
