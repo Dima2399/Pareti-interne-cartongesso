@@ -153,27 +153,27 @@
 
   Normativa di riferimento: EN 13501-1:2018
 
-- CC_D_07) Verifica che siano indicate la conducibilità e la resistenza termica dell'isolante.
+- CC_D_06) Verifica che siano indicate la conducibilità e la resistenza termica dell'isolante.
 
   Normativa di riferimento: EN 12667, EN12939
 
-- CC_D_08) Verifica che sia indicato l'assorbimento d'acqua dell'isolante.
+- CC_D_07) Verifica che sia indicato l'assorbimento d'acqua dell'isolante.
 
   Normativa di riferimento: EN 1609, EN 12087
 
-- CC_D_09) Verifica che sia indicata la permeabilità all'aria dell'isolante.
+- CC_D_08) Verifica che sia indicata la permeabilità all'aria dell'isolante.
 
   Normativa di riferimento: EN 12114:2000
 
-- CC_D_10) Verifica che sia indicata la resistenza a compressione e la comprimibilità dell'isolante.
+- CC_D_09) Verifica che sia indicata la resistenza a compressione e la comprimibilità dell'isolante.
 
   Normativa di riferimento: EN 826, EN 12431
 
-- CC_D_11) Verifica che siano indicate le proprietà acustiche dell'isolante.
+- CC_D_10) Verifica che siano indicate le proprietà acustiche dell'isolante.
 
   Normativa di riferimento: D.P.C.M. 05/12/1997 “Determinazione dei requisiti acustici passivi degli edifici”
 
-- CC_D_12) Verifica che siano indicate le tolleranze dimensionali dell'isolante.
+- CC_D_11) Verifica che siano indicate le tolleranze dimensionali dell'isolante.
 
   Normativa di riferimento: /
 
