@@ -38,7 +38,7 @@
 
 - CC_A_09) Verifica che sia indicato il carico orizzontale lineare massimo applicabile alla parete.
 
- Normativa di riferimento: D.M. 17.01.2018 (NTC 2018)
+ Normativa di riferimento: D.M. 17.01.2018
 
 - CC_A_10) Verifica che sia indicato che il metodo di posa della parete sarà in conformità alla norma di posa.
 
@@ -147,7 +147,7 @@
 
 - CC_D_04) Verifica che sia indicata la permeabilità al vapore dell'isolante.
 
-  Normativa di riferimento: EN 12086
+  Normativa di riferimento: EN 12086:2013
 
 - CC_D_05) Verifica che sia indicata la classe di reazione al fuoco dell'isolante.
 
@@ -155,11 +155,11 @@
 
 - CC_D_06) Verifica che siano indicate la conducibilità e la resistenza termica dell'isolante.
 
-  Normativa di riferimento: EN 12667, EN12939
+  Normativa di riferimento: EN 12667:2002, EN 12939:2002
 
 - CC_D_07) Verifica che sia indicato l'assorbimento d'acqua dell'isolante.
 
-  Normativa di riferimento: EN 1609, EN 12087
+  Normativa di riferimento: EN 1609:2013, EN 12087:2013
 
 - CC_D_08) Verifica che sia indicata la permeabilità all'aria dell'isolante.
 
@@ -167,7 +167,7 @@
 
 - CC_D_09) Verifica che sia indicata la resistenza a compressione e la comprimibilità dell'isolante.
 
-  Normativa di riferimento: EN 826, EN 12431
+  Normativa di riferimento: EN 826:2013, EN 12431:2013
 
 - CC_D_10) Verifica che siano indicate le proprietà acustiche dell'isolante.
 
