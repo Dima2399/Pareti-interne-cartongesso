@@ -145,10 +145,6 @@
 
   Normativa di riferimento: /
 
-- CC_D_04) Verifica che sia indicata la resistenza alla diffusione del vapore dell'isolante.
-
-  Normativa di riferimento: EN ISO10456:2008
-
 - CC_D_05) Verifica che sia indicata la permeabilità al vapore dell'isolante.
 
   Normativa di riferimento: EN 12086
