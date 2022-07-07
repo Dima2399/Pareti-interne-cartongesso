@@ -145,11 +145,11 @@
 
   Normativa di riferimento: /
 
-- CC_D_05) Verifica che sia indicata la permeabilità al vapore dell'isolante.
+- CC_D_04) Verifica che sia indicata la permeabilità al vapore dell'isolante.
 
   Normativa di riferimento: EN 12086
 
-- CC_D_06) Verifica che sia indicata la classe di reazione al fuoco dell'isolante.
+- CC_D_05) Verifica che sia indicata la classe di reazione al fuoco dell'isolante.
 
   Normativa di riferimento: EN 13501-1:2018
 
