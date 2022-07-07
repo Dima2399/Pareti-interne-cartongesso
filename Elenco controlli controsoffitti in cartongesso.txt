@@ -44,23 +44,23 @@
 
  Normativa di riferimento: EN 13788:2003
 
-- CC_A_12 Verifica che sia indicata la resistenza termica del controsoffitto.
+- CC_A_11 Verifica che sia indicata la resistenza termica del controsoffitto.
 
  Normativa di riferimento: EN 12524:2000
 
-- CC_A_13 Verifica che sia indicata la resistenza a flessione del controsoffitto.
+- CC_A_12 Verifica che sia indicata la resistenza a flessione del controsoffitto.
 
  Normativa di riferimento: EN 13964:2004
 
-- CC_A_14 Verifica che sia indicato che il metodo di posa del controsoffitto sarà in conformità alla norma di posa.
+- CC_A_13 Verifica che sia indicato che il metodo di posa del controsoffitto sarà in conformità alla norma di posa.
 
  Normativa di riferimento: UNI 11424:2015
 
-- CC_A_15 Verifica che siano indicate le tolleranze dimensionali in mm del controsoffitto.
+- CC_A_14 Verifica che siano indicate le tolleranze dimensionali in mm del controsoffitto.
 
  Normativa di riferimento: /
 
-- CC_A_16 Verifica che sia indicato l'interasse delle forature.
+- CC_A_15 Verifica che sia indicato l'interasse delle forature.
 
  Normativa di riferimento: /
 
@@ -120,37 +120,37 @@
  Normativa di riferimento: /
 
 
-###### Controlli su guide e montanti metallici:
+###### Controlli sui profili metallici:
 
-- CC_C_01 Verifica che sia indicata la tipologia di guide e montanti.
+- CC_C_01 Verifica che sia indicata la tipologia dei profili.
 
  Normativa di riferimento: EN 14195:2014
 
-- CC_C_02 Verifica che siano indicate le dimensioni di guide e montanti.
+- CC_C_02 Verifica che siano indicate le dimensioni dei profili.
 
  Normativa di riferimento: /
 
-- CC_C_03 Verifica che siano indicati i materiali con cui sono fatte guide e montanti.
+- CC_C_03 Verifica che siano indicati i materiali con cui sono fatti i profili.
 
  Normativa di riferimento: /
 
-- CC_C_04 Verifica che sia indicato l'interasse dei montanti.
+- CC_C_04 Verifica che sia indicato l'interasse dei profili.
 
  Normativa di riferimento: /
 
-- CC_C_05 Verifica che sia indicata la classe di reazione al fuoco (0, 1, 2, 3, 4, 5) di guide e montanti.
+- CC_C_05 Verifica che sia indicata la classe di reazione al fuoco (0, 1, 2, 3, 4, 5) dei profili.
 
  Normativa di riferimento: EN 13501-1:2018
 
-- CC_C_06 Verifica che sia indicato il carico di snervamento di guide e montanti.
+- CC_C_06 Verifica che sia indicato il carico di snervamento dei profilii.
 
  Normativa di riferimento: /
 
-- CC_C_07) Verifica che sia indicata la capacità portante di guide e montanti.
+- CC_C_07) Verifica che sia indicata la capacità portante dei profili.
 
  Normativa di riferimento: EN 14195:2014
 
-- CC_C_08) Verifica che siano indicate le tolleranze dimensionali in mm di guide e montanti.
+- CC_C_08) Verifica che siano indicate le tolleranze dimensionali in mm dei profili.
 
  Normativa di riferimento: /
 
@@ -192,13 +192,13 @@
  Normativa di riferimento: EN 13501-2:2016
 
 
-###### Controlli su guide e montanti metallici:
+###### Controlli sui profili metallici:
 
-- AD_C_01) Verifica che la classe di reazione al fuoco di guide e montanti (0, 1, 2, 3, 4, 5) sia adeguata al rischio presente in quel tipo di ambiente.	EN 13501-1:2018
+- AD_C_01) Verifica che la classe di reazione al fuoco dei profili (0, 1, 2, 3, 4, 5) sia adeguata al rischio presente in quel tipo di ambiente.	EN 13501-1:2018
 
  Normativa di riferimento: EN 13501-1:2018
 
-- AD_C_02) Verifica che la capacità portante di guide e montanti sia adeguata al peso e al numero delle lastre.	/
+- AD_C_02) Verifica che la capacità portante dei profili sia adeguata al peso e al numero delle lastre.	/
 
  Normativa di riferimento: /
 
@@ -223,8 +223,8 @@
 
  Normativa di riferimento: /
 
-###### Controlli su guide e montanti metallici:
+###### Controlli sui profili metallici:
 
-- CO_C_01) Verifica che l'interasse dei montanti indicato nel capitolato sia coerente con quanto rappresentato nelle tavole.
+- CO_C_01) Verifica che l'interasse dei profili indicato nel capitolato sia coerente con quanto rappresentato nelle tavole.
 
  Normativa di riferimento: /
